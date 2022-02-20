@@ -1,0 +1,10 @@
+﻿Passenger_nam,Category,Gender,Boarding_City,Destination_City,Distance,Bus_Type
+Sejal,AC,F,Bengaluru,Chennai,350,Sleeper
+Anmol,Non-AC,M,Mumbai,Hyderabad,700,Sitting
+Pallavi,AC,F,Panaji,Bengaluru,600,Sleeper
+Khusboo,AC,F,Chennai,Mumbai,1500,Sleeper
+Udit,Non-AC,M,Trivandrum,panaji,1000,Sleeper
+Ankur,AC,M,Nagpur,Hyderabad,500,Sitting
+Hemant,Non-AC,M,panaji,Mumbai,700,Sleeper
+Manish,Non-AC,M,Hyderabad,Bengaluru,500,Sitting
+Piyush,AC,M,Pune,Nagpur,700,Sitting
